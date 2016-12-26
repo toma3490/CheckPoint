@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">CheckApp</string>
+    <string name="login_as_existing_user">Login as existing user</string>
+    <string name="login">login</string>
+    <string name="or">or</string>
+    <string name="register">Register</string>
+    <string name="enter_your_login">Enter your login</string>
+    <string name="age">age</string>
+    <string name="i_m_an_employer">I\'m an employer</string>
+    <string name="i_m_an_employee">I\'m an employee</string>
+    <string name="password">password</string>
+    <string name="and_password">and password</string>
+    <string name="please_register_in_system">Please, register in system</string>
 </resources>
